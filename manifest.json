@@ -1,11 +1,11 @@
 {
-  "name": "Hearthbound",
-  "version": "1.2.0",
+  "name": "Folioheart",
+  "version": "1.3.1",
   "manifest_version": 1,
   "description": "Class, ancestry, community, and domain cards, custom creations, and a GM-managed party collection.",
   "icon": "/folioheart/icon.svg",
   "action": {
-    "title": "Hearthbound \u00b7 My cards",
+    "title": "Folioheart \u00b7 My cards",
     "icon": "/folioheart/icon.svg",
     "popover": "/folioheart/index.html",
     "width": 1100,
