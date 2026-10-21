@@ -1,4 +1,4 @@
-# Folioheart content sources — v1.4.0
+# Folioheart content sources — v1.5.0
 
 Character options only; no official artwork or book scans are bundled. Existing core IDs and storage keys are preserved.
 
