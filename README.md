@@ -30,9 +30,10 @@ For a user-site repository named `YOUR-USERNAME.github.io`, use `/icon.svg` for 
 ## Included behavior
 
 - Individual class/domain selections with player-controlled selection locks.
-- 189 domain, 18 ancestry and 9 community core cards, plus class/subclass references.
+- Core, released Hope & Fear and current Void character options: 15 classes, 31 official subclasses, 231 domain cards, 24 ancestries, 15 communities and six transformations. See SOURCES.md for versions.
 - GM-managed communal party cards; players can view them.
-- Custom ancestry and domain cards.
+- Custom ancestry, domain and subclass cards. Homebrew subclasses include foundation, specialization and mastery; domains follow the parent class.
+- Mark acquired subclass stages in Character details to enable their trackers.
 - Mixed / hybrid ancestry in Character details: first trait of one ancestry plus second trait of another, shown together with resource trackers.
 - Delete your own saved character with typed confirmation; retain your custom library by default or delete it too.
 - Card-local resource counters, effect dice, limited uses, rolled Prayer Dice, and configurable custom trackers. Resources remain usable while card selections are locked.
